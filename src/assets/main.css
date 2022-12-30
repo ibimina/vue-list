@@ -1,0 +1,15 @@
+@import "./base.css";
+.home{
+    padding: 2em;
+}
+.lang_con{
+    max-width: 500px;
+    padding: 0 1em;
+    margin: 1em 0;
+}
+.lang_list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
